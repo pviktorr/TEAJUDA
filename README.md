@@ -43,8 +43,8 @@ Listagem e Consulta de registros existentes.
 
 - JavaScript(React)
 - Bibiliotecas:
-- Leaflet
-- Date-fns
+- Leaflet - Pra criação dos mapas
+- Date-fns - Formatação das datas no calendario
 
 
 
